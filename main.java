@@ -34,7 +34,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class ejercicios {
+public class main {
     static Random rn = new Random();
     static Scanner sc = new Scanner(System.in);
 
