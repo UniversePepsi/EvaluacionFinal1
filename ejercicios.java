@@ -1,5 +1,5 @@
 /*
-AUTOR: Diego Breeze.
+AUTOR: Pepsi.
 CLASE: 1°IH
 
 Teorico:
@@ -42,7 +42,7 @@ public class ejercicios {
         int op = 0;
 
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
-        System.out.println("[~]: Autor: Diego Breeze." + "\n\n" + "[#]: 1) Pedir números enteros." + "\n" + "[#]: 2) Pedir 10 enteros.");
+        System.out.println("[~]: Autor: Pepsi." + "\n\n" + "[#]: 1) Pedir números enteros." + "\n" + "[#]: 2) Pedir 10 enteros.");
         System.out.println("[#]: 3) Sortear del 1 al 81." + "\n" + "[#]: 4) Sortear 4 números.");
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-" + "\n");
         System.out.print("[*]: ¿Qué deseas hacer?: ");
